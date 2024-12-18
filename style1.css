@@ -1,0 +1,12 @@
+h2
+                {
+                    color:"pink";
+                    background-color:blue;
+                    padding:20px;
+                }
+                p{
+                    background-image:url("image/ecom.jpg");
+                    padding:10px;
+                    font-family:Impact,Haettenschweiler,'Arial Narrow Bold',sans-serif;
+                    font-size:2opx;
+                }

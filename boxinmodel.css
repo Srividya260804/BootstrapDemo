@@ -1,0 +1,21 @@
+.container{
+    border: 20px solid red;
+    margin: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 20px;
+    /* line-height: 50px; */
+    word-spacing:20px;
+    /* letter-spacing: 10px; */
+    background-image:url("image/ban1.jpg");
+    width: 400px;
+    height: 400px;
+    float: left;
+}
+h2{
+    background-color: orange;
+    padding: 10px;
+}
+p{
+    text-indent: 100px;
+    line-height: 40px;
+}
